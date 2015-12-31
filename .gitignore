@@ -1,0 +1,8 @@
+.npm
+.build*
+packages/
+.idea/
+.idea_modules/
+.DS_Store
+.AppleDouble
+.LSOverride
